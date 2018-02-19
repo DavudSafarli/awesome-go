@@ -1338,6 +1338,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [htcat](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
 * [httpcontrol](https://github.com/facebookgo/httpcontrol) - Package httpcontrol allows for HTTP transport level control around timeouts and retries.
 * [hub](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
+* [hutplate](https://github.com/usmanhalalit/hutplate) - A library over net/http library with auth, session, error handling and more.
 * [hystrix-go](https://github.com/afex/hystrix-go) - Implements Hystrix patterns of programmer-defined fallbacks aka circuit breaker.
 * [immortal](https://github.com/immortal/immortal) - *nix cross-platform (OS agnostic) supervisor.
 * [intrinsic](https://github.com/mengzhuo/intrinsic) - Use x86 SIMD without writing any assembly code.
